@@ -50,10 +50,10 @@ def echo(text: str, level: str = "") -> None:
 
 # MQTT Broker Credentials
 credentials = SimpleNamespace(
-    broker="c2d6217c0ec04073893032e96b116896.s1.eu.hivemq.cloud",
+    broker="your-broker-url.hivemq.cloud",
     port=8883,
-    username="bytebridge",
-    password="Anvay&256",
+    username="your-username",
+    password="your-password",
     topic="telemetrix/stream",
     topic_status="status/esp32",
 )
