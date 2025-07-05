@@ -2,7 +2,7 @@
 
 <br>
 
-A compact ESP32-based pager system using **HiveMQ Cloud** for real-time message delivery. One ESP32 acts as a **subscriber**, receiving messages over MQTT and triggering a **buzzer + OLED notification**. A companion **Python script** acts as the **publisher**, enabling interactive message transmission with live feedback and heartbeat monitoring.
+A rudimentary ESP32-based pager system using **HiveMQ Cloud** for real-time message delivery. One ESP32 acts as a **subscriber**, receiving messages over MQTT and triggering a **buzzer + OLED notification**. A companion **Python script** acts as the **publisher**, enabling interactive message transmission with live feedback and heartbeat monitoring.
 
 > 🔧 Developed during the **AICTE SAKEC IDEALAB Summer Intership Program 2025** as a side project, it demonstrates secure MQTT messaging, ESP32 flash memory usage, and robust cross-platform communication using TLS and state-aware embedded logic.
 
