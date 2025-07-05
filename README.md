@@ -201,13 +201,11 @@ iot-pager/
 
 ---
 
-## 📸 Output Example
-
-> *(Place images inside the `images/` folder and update links here)*
-
 ### OLED Preview
 
-![OLED Message Example](images/oled_preview.png)
+![OLED Message Example](images/006.jpg)
+
+---
 
 ### Terminal Logs (Python Publisher)
 
