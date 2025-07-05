@@ -201,12 +201,6 @@ iot-pager/
 
 ---
 
-### OLED Preview
-
-![OLED Message Example](images/006.jpg)
-
----
-
 ### Terminal Logs (Python Publisher)
 
 ```
