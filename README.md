@@ -95,7 +95,7 @@ iot-pager/
 ├── ESP32_MQTT_SUBSCRIBER/
 │   └── ESP32_MQTT_SUBSCRIBER.ino     // 🔻 Subscriber code for ESP32
 ├── mqtt_publisher.py                 // 🖥️ Python MQTT Publisher Script
-├── images/                           // 🖼️ Output screenshots / circuit diagrams
+├── images/                           // 🖼️ Output screenshots
 └── README.md                         // 📘 This file
 ```
 
