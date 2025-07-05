@@ -95,7 +95,7 @@ iot-pager/
 ├── ESP32_MQTT_SUBSCRIBER/
 │   └── ESP32_MQTT_SUBSCRIBER.ino     // 🔻 Subscriber code for ESP32
 ├── mqtt_publisher.py                 // 🖥️ Python MQTT Publisher Script
-├── images/                           // 🖼️ Output screenshots
+├── images/                           // 🖼️ Output snippets
 └── README.md                         // 📘 This file
 ```
 
@@ -217,6 +217,7 @@ iot-pager/
 
 ```
 Connected to Wifi!
+WiFi SSID
 192.168.1.67
 
 05 Jul 25 19:45:21
